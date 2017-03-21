@@ -1,0 +1,43 @@
+/*================font=======================*/
+font-family: 'Lato', sans-serif;
+/*=============universals====================*/
+.pull left {
+    float: right;
+}
+header{
+    height:3000px;
+    background:#000;
+    display: inline-block;
+}
+
+.inline {
+    display: inline;
+}
+
+a{
+    text 
+/*==================================header section========*/
+h1,{
+    font-family: 'Satisfy', cursive;
+}
+h2 {
+        color: #fff;
+}
+
+  width: 70%;
+  float: left;    
+}
+.garden{
+  height: 300px;
+  background-color: blue;
+  float: right;
+  width: 30%;
+}
+h1 {
+  float: left;
+  
+  /*=============================footer section========*/
+  footer{
+      
+  }
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3197.604377581869!2d-119.78794368518065!3d36.732061679962605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80945e26d4f58091%3A0xf082a7e633ee41f0!2s700+Van+Ness+Ave%2C+Fresno%2C+CA+93721!5e0!3m2!1sen!2sus!4v1489629454143" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
